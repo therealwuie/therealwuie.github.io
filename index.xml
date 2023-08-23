@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo tranquilpeak theme</title>
-    <link>https://example.org/</link>
+    <link>https://therealwuie.github.io/</link>
     <description>Recent content on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2023 00:50:47 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 00:50:47 +0800</lastBuildDate><atom:link href="https://therealwuie.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://example.org/post/first-post/</link>
+      <link>https://therealwuie.github.io/post/first-post/</link>
       <pubDate>Wed, 23 Aug 2023 00:50:47 +0800</pubDate>
       
-      <guid>https://example.org/post/first-post/</guid>
+      <guid>https://therealwuie.github.io/post/first-post/</guid>
       <description>：“建博客对于电脑小白有点过于困难了”</description>
     </item>
     
