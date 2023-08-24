@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2023 00:50:47 +0800</lastBuildDate><atom:link href="https://therealwuie.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 00:50:47 +0800</lastBuildDate><atom:link href="https://therealwuie.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一次写的博客</title>
+      <link>https://therealwuie.github.io/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 24 Aug 2023 00:50:47 +0800</pubDate>
+      
+      <guid>https://therealwuie.github.io/post/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
+      <description>对于第一个博客的创建其实并没有什么实感，对于我来说不过是另一个无人问津的树洞罢了，不会有人因此更了解我一点或更多。* 别人用社交媒体抽风，那我用博客来发癫 在边看markdown教程边码字，看到与HTML有关内容重合的部分开始发慌。 想插入图片却被hugo bundle的全英文说明劝退，哎只能纯打字了。 有点烦躁了，最后转载一些以前的牢骚吧
+烦躁，可事情就是这样，人和人之间总是无法相互理解。即使此时的我没有做任何尝试，仅凭一些表面浅层的共识，我也笃定这个箴言。
+可挚友是怎么回事？或许是有人为而能达到的理想的理解程度。理想而克制地讲，最好的状态是双方都保留有一些空间，意识到沟通本身是有限度的。可这不就是带着镣铐跳舞？抑或是在刚刚好的温水里被煮熟？所以需要冲突，分歧。却要是良性的，感冒性质的，让人类理性的本能去内化差异的本源。可兽性往往打败理性，这就是人类。因此人不需要相互理解。唯一的悲哀在于，不能理解爱的人。这又让人疑惑爱的本质。是因为什么而爱的？</description>
+    </item>
+    
     <item>
       <title>First Post</title>
       <link>https://therealwuie.github.io/post/first-post/</link>
