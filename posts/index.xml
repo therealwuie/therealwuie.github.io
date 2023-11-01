@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>givenofuck on Hugo tranquilpeak theme</title>
-    <link>https://therealwuie.github.io/categories/givenofuck/</link>
-    <description>Recent content in givenofuck on Hugo tranquilpeak theme</description>
+    <title>Posts on Hugo tranquilpeak theme</title>
+    <link>https://therealwuie.github.io/posts/</link>
+    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://therealwuie.github.io/categories/givenofuck/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://therealwuie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>大学生活伊始~消极主义</title>
       <link>https://therealwuie.github.io/2023/09/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB%E4%BC%8A%E5%A7%8B~%E6%B6%88%E6%9E%81%E4%B8%BB%E4%B9%89/</link>
@@ -27,6 +27,26 @@
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;em&gt;你已经做得足够多了，你哭泣的，迷惘的，后悔的，痛苦的，爱着的构成了过去的一年。不，不要说这些都还不够。&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>第一次的博客</title>
+      <link>https://therealwuie.github.io/2023/08/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://therealwuie.github.io/2023/08/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;别人用社交媒体抽风，那我用博客来&lt;strong&gt;发癫&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://therealwuie.github.io/2023/08/first-post/</link>
+      <pubDate>Wed, 23 Aug 2023 00:50:47 +0800</pubDate>
+      
+      <guid>https://therealwuie.github.io/2023/08/first-post/</guid>
+      <description>：“建博客对于电脑小白有点过于困难了”</description>
     </item>
     
   </channel>
