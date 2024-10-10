@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://therealwuie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://therealwuie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>很久没有写过博客了</title>
+      <link>https://therealwuie.github.io/2024/10/%E5%BE%88%E4%B9%85%E6%B2%A1%E6%9C%89%E5%86%99%E8%BF%87%E5%8D%9A%E5%AE%A2%E4%BA%86/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://therealwuie.github.io/2024/10/%E5%BE%88%E4%B9%85%E6%B2%A1%E6%9C%89%E5%86%99%E8%BF%87%E5%8D%9A%E5%AE%A2%E4%BA%86/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;一些胡言乱语&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>一段时间情绪的衍生物</title>
       <link>https://therealwuie.github.io/2023/10/%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E6%83%85%E7%BB%AA%E7%9A%84%E8%A1%8D%E7%94%9F%E7%89%A9/</link>
@@ -58,17 +69,6 @@
       
       <guid>https://therealwuie.github.io/2023/08/first-post/</guid>
       <description>：“建博客对于电脑小白有点过于困难了”</description>
-    </item>
-    
-    <item>
-      <title>很久没有写过博客了</title>
-      <link>https://therealwuie.github.io/1/01/%E5%BE%88%E4%B9%85%E6%B2%A1%E6%9C%89%E5%86%99%E8%BF%87%E5%8D%9A%E5%AE%A2%E4%BA%86/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://therealwuie.github.io/1/01/%E5%BE%88%E4%B9%85%E6%B2%A1%E6%9C%89%E5%86%99%E8%BF%87%E5%8D%9A%E5%AE%A2%E4%BA%86/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;一些胡言乱语&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
   </channel>
